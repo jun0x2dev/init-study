@@ -27,4 +27,4 @@ description: 주제 개념을 학습용 형식으로 설명한다. 사용자가 
 - 정확성 우선. 확실하지 않은 수치·동작은 "대략", "보통"으로 범위를 밝힌다.
 - 주제가 넓으면 기초 범위로 좁혀 설명하고, 이어서 볼 하위 주제를 마지막에 한 줄로 제안한다.
 - 파일명은 영어 `kebab-case.md`. 이미 같은 주제 파일이 있으면 새로 만들지 말고 그 파일에 이어 쓰도록 추천한다.
-- 레포 폴더: `cs/network`, `cs/os`, `cs/database`, `cs/data-structure-algorithm`, `backend`, `ai`, `certificate`
+- 레포 폴더: `cs/network`, `cs/os`, `cs/database`, `cs/data-structure-algorithm`, `backend`, `infra`, `ai`, `certificate`

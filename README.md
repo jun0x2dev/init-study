@@ -16,5 +16,6 @@ AI가 빠르게 발전하면서, 편해진 만큼 스스로 생각하는 힘은 
 | 데이터베이스 | [cs/database](cs/database) |
 | 자료구조/알고리즘 | [cs/data-structure-algorithm](cs/data-structure-algorithm) |
 | 백엔드 (Java/Spring/JPA) | [backend](backend) |
+| 인프라 | [infra](infra) |
 | AI | [ai](ai) |
 | 자격증 | [certificate](certificate) |
